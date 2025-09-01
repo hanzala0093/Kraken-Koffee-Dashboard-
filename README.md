@@ -28,11 +28,4 @@ The goal of this project was to move beyond traditional dashboards and create a 
 This project showcases how **data storytelling + Power BI** can turn raw transactional data into **business intelligence** that drives decision-making.
 Instead of just presenting numbers, it highlights **when, where, and what** drives sales—and provides actionable insights like store timing adjustments and realistic stretch goals.
 
-<img width="1010" height="500" alt="Image" src="https://github.com/user-attachments/assets/4be968a7-fe58-4edd-8942-d7d85767aca4" />
-
-
-<img width="997" height="542" alt="Image" src="https://github.com/user-attachments/assets/3f442527-1417-4a12-a32a-7f82176d0e92" />
-
-
-<img width="825" height="517" alt="Image" src="https://github.com/user-attachments/assets/6d9dc7f1-effe-4919-bfbf-e878d596d554" />
 
